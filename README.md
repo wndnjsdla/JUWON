@@ -31,8 +31,5 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-2780F5?style=for-the-badge&logo=Discord&logoColor=white" />&nbsp
-  <a href="mailto:m63028551@gmail.com">
-    <img
-      src="https://img.shields.io/badge/m63028551@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <img src="https://img.shields.io/badge/jyang7278@naver.com-64E639?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
 </div>
